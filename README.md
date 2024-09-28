@@ -1,7 +1,7 @@
 
 # Decentralized Finance (DeFi) App
 
-A decentralized finance application built on the Ethereum blockchain, enabling users to lend, borrow, and exchange cryptocurrencies in a secure, transparent, and decentralized manner without intermediaries.
+A Decentralized Finance (DeFi) application that enables users to lend, borrow, and exchange cryptocurrencies in a secure, transparent, and decentralized manner. The platform leverages Ethereum and the Internet Computer blockchains, using Solidity for Ethereum smart contracts and Motoko for deploying contracts on the Internet Computer, ensuring a hybrid approach that maximizes security and scalability.
 ## Features
 
 - Lending & Borrowing: Securely lend or borrow cryptocurrencies directly on the blockchain.
@@ -16,7 +16,7 @@ A decentralized finance application built on the Ethereum blockchain, enabling u
 
 **Frontend:** React.js
 
-**Blockchain:** Ethereum, Solidity, Truffle
+**Blockchain:** Ethereum, Solidity, Truffle, Motoko
 
 **Backend:** Node.js
 
